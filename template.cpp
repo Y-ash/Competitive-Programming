@@ -1,7 +1,4 @@
-/******************************************
-* AUTHOR : SAURABH SHUKLA *
-* INSTITUTION : IIIT GWALIOR *
-******************************************/
+
 #include <bits/stdc++.h>
 using namespace std;
 
